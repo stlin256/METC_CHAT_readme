@@ -42,7 +42,7 @@
 &emsp;&emsp; 此项目为 [**2025 华南农业大学 AI 智能体开发大赛**](https://inc.scau.edu.cn/aicontest2025/) 赛道一：**校园智慧管理** 的参赛作品。
 
 
-&emsp;&emsp;作者为电子工程学院（人工智能学院）**24级人工智能2班林怡嘉**。
+&emsp;&emsp;作者为电子工程学院（人工智能学院）**人工智能专业林怡嘉**。
 
 ![ai_contest](image/ai_contest.png)
 
